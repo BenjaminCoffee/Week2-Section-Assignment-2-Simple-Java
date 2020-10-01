@@ -15,7 +15,7 @@ public class Fibonacci extends ConsoleProgram {
 		int sum2 = 1;
 		int sum3 = 0;
 		
-		println("Display the Fibonacci sequence up to 10,000.");
+		println("Display the Fibonacci sequence not exceeding 10,000.");
 		
 		
 		while(sum1 <= MAX_TERM_VALUE) {
